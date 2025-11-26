@@ -1,0 +1,1 @@
+document.querySelector(".para").classList.remove("para");
