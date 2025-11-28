@@ -18,7 +18,7 @@ const displayFullName = async () => {
     lastName = await getFullName;
     // console.log(firstName + " " + lastName);
     console.log(`${firstName} ${lastName}`);
-}
+} 
 
 displayFullName();
 
